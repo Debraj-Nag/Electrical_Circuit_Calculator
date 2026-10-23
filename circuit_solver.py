@@ -1,4 +1,4 @@
-
+ 
 """
 Circuit Solver AI — single-file Streamlit application.
 
